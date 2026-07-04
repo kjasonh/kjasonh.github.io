@@ -61,3 +61,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 #  - jekyll-feed
+
+timezone: Asia/Seoul
