@@ -4,5 +4,5 @@ source "https://rubygems.org"
 gemspec
 gem 'bigdecimal'
 gem 'webrick'
- 
+gem 'jekyll-remote-theme'
  
