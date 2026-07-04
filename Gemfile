@@ -1,8 +1,8 @@
 # frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
-gem 'bigdecimal'
-gem 'webrick'
-gem 'jekyll-remote-theme'
+
+gem "jekyll", "~> 4.3.3"
+gem "jekyll-remote-theme"
+gem "webrick"
+
  
