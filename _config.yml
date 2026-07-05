@@ -14,7 +14,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Jihwan Kim
-  tagline: Developer. Designer
+  tagline: "<small>Dept. of Software Engineering <br>@ Ajou University</small>"
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -27,9 +27,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    #twitter: jekyll
+    github:  kjasonh
+    #linkedIn: jekyll
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -39,7 +39,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    # email: kjasonh03@ajou.ac.kr
 
     # Mastodon instances
     # mastodon:
