@@ -53,8 +53,9 @@ plainwhite:
 #header_pages:
 # - about.md
 
-include:
-  - _posts
+collections:
+  posts:
+    output: true
 
 # Build settings
 remote_theme: samarsault/plainwhite-jekyll
