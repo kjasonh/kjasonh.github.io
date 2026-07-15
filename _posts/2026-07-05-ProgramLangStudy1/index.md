@@ -8,6 +8,10 @@ series: programming languages
 series_order: 1
 ---
 
+이 포스트에서는, 프로그래밍 언어 이론의 대표적 인물들을 알아보고,  
+Grammar를 만들기 위해 기초가 되는 지식들을 정리해보겠습니다.
+
+
 ## 프로그래밍 언어 이론의 대표적인 인물들
 
 대표적으로 John Backus, Peter Naur, Noam Chomsky 세 명의 인물이 있음.
