@@ -29,6 +29,7 @@ Noam Chomsky → 자연어의 문법적 구조를 명시하려고 시도.
 언어의 복잡성에 따른 4가지 분류를 만듬. Chomsky Hierarchy. 춈스키 위계의 type이 0부터 3까지 있을 때, type 2가 BNF/EBNF와 동일한 수준의 힘을 가지고 있음. 
 
 ![image1](/assets/images/2026-07-05-ProgramLangStudy1/image.png)
-
+*Chomsky Hierarchy*
+{: .caption}
 
 formal language와 automata theory의 주제들 아래에서, 춈스키 위계에 속한 language들이 CS, mathematics, linguistics과 함께 연구되어 졌음.

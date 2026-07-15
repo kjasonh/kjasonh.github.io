@@ -39,3 +39,16 @@
 .home-button:hover {
   opacity: 1;
 }
+
+/* 블로그 본문 내부의 모든 이미지에 자동 적용 */
+.post-content img, 
+.page-content img,
+main img {
+  display: block;       /* 이미지를 한 줄에 하나씩 배치 */
+  max-width: 60%;       /* 본문 너비의 최대 80%를 넘지 않도록 자동 조절 (원하는 비율로 수정 가능) */
+  height: auto;         /* 가로 크기에 맞춰 세로 비율은 자동으로 황금 비율 유지 */
+  margin: 1.5rem auto;  /* 이미지를 글 한가운데로 자동 중앙 정렬 */
+  border-radius: 8px;   /* (선택) 이미지 모서리를 부드럽게 라운딩 처리 */
+}
+
+.caption { text-align: center; color: #888; font-size: 80%;}
