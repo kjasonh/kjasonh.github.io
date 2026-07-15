@@ -2,7 +2,7 @@
 title: 프로그래밍 언어 스터디 (0)
 author: Jihwan Kim
 date: 2026-07-05
-category: Jekyll
+category: Study
 layout: post
 series: programming languages
 series_order: 0
